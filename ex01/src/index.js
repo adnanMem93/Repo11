@@ -16,5 +16,5 @@ return myItems;
 // Only change code above this line
 }
 
-console.log(myArrayFunction([]));  // Change this line
+console.log(myArrayFunction(myArr));  // Change this line
 module.exports = myArrayFunction;
