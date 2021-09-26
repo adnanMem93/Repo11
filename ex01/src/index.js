@@ -7,9 +7,7 @@ var myItems = [...arr];
 
 // Only change code below this line
 
-myArr[2] = 6;
-
-myItems = myArr;
+myItems[2] = 6;
 
 return myItems;
 
